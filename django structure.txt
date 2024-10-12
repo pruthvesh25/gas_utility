@@ -1,0 +1,31 @@
+gas_utility/  
+│  
+├── customer_service/  
+│   ├── __pycache__/  
+│   ├── migrations/  
+│   ├── templates/  
+│   ├── __init__.py  
+│   ├── admin.py  
+│   ├── apps.py  
+│   ├── forms.py  
+│   ├── models.py  
+│   ├── tests.py  
+│   ├── urls.py  
+│   └── views.py  
+│  
+├── gas_utility/  
+│   ├── __pycache__/  
+│   ├── static/  
+│   ├── __init__.py  
+│   ├── asgi.py  
+│   ├── settings.py  
+│   ├── urls.py  
+│   └── wsgi.py  
+│  
+├── media/  
+│   └── attachments/  
+│       ├── hjk.pages  
+│       └── Screenshot_2024-08-21_at_12.55.21AM.png  
+│  
+├── db.sqlite3  
+└── manage.py
